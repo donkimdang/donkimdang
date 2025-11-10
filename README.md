@@ -3,7 +3,7 @@
 - 🌱 I’m currently attending San Jose State University 
 - 💞️ I'm currently studying Computer Science
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love chicken
+- ⚡ Fun fact: I love going to the gym
 
 <!---
 donkimdang/donkimdang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
